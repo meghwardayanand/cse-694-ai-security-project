@@ -1,0 +1,12 @@
+# Ignore .env (it can contains secure credentials).
+.env
+
+# Ignore .venv
+.venv
+
+# Ignore Python Cache files
+__pycache__
+__pycache__/*
+
+# Ignore db files
+*.db

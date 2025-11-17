@@ -1,0 +1,13 @@
+python-dotenv>=1.0.0
+langchain-core<2.0.0,>=1.0.2
+langchain-text-splitters<2.0.0,>=1.0.0
+langchain>=0.0.200
+langchain-openai
+openai>=0.27.0
+psycopg2-binary>=2.9.7
+sqlalchemy>=1.4.0
+fastapi>=0.95.0          # optional if you use FastAPI later
+uvicorn>=0.22.0         # optional (for running FastAPI)
+langchain-community>=0.4.1
+langchain-experimental
+langchain-openai
